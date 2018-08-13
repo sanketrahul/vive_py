@@ -1,0 +1,2 @@
+set(vive_py_MESSAGE_FILES "/home/baxter2/ros_ws/src/vive_py/msg/Num.msg")
+set(vive_py_SERVICE_FILES "/home/baxter2/ros_ws/src/vive_py/srv/AddTwoInts.srv")
