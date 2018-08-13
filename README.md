@@ -2,7 +2,7 @@
 
 This repository is to subscribe to vive_ros node and fetch HTC Vive Components published data.
 
-The pre-requisite to this repo is to have vive_ros ().
+The pre-requisite to this repo is to have vive_ros (https://github.com/sanketrahul/vive_ros).
 
 Run vive_ros repository commands to publish HTC Vive components date
 
